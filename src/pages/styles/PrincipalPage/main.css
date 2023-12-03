@@ -1,0 +1,47 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(215, 235, 244);
+
+}
+.container_main{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 1300px;
+    height: 500px;
+    
+    background-image: url("../../../assets/images/fotoPrincipal.svg");
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: 24em;
+
+    /* margin-top: -10px; */
+
+}
+*{
+    /* border: solid 1px red; */
+}
+.main_text *{
+    margin: 20px;
+    width: 500px;
+}
+.main_text h3{
+    font-size: 3em;
+}
+.main_text p{
+    font-size: 20px;
+}
+.main_button{
+    margin: 20px;
+}
+.main_button button{
+    background-color: rgb(4, 140, 245);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}

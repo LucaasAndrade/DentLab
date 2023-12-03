@@ -39,13 +39,11 @@ nav{
 }
 .nav_options_list li{
     margin: 10px;
+    font-size: 14px;
 }
 #option_four{
     padding: 10px;
     color: white;
     background-color: rgb(75, 179, 241);
     border-radius: 15px;
-}
-*{
-    border: 1px solid red;
 }

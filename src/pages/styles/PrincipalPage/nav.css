@@ -42,8 +42,8 @@ nav{
     font-size: 14px;
 }
 #option_four{
-    padding: 10px;
+    padding: 15px 10px;
     color: white;
     background-color: rgb(75, 179, 241);
-    border-radius: 15px;
+    border-radius: 5px;
 }

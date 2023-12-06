@@ -1,0 +1,22 @@
+.container_carrosel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carrosel{
+    width: 1000px;
+}
+/* *{
+    border: solid 1px red;
+} */
+.orientationCarrosel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #eff8ff;
+    border-radius: 10px;
+    margin: 10px;
+
+    height: 200px;
+}
